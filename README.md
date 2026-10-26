@@ -93,4 +93,4 @@ every push.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). © 2026 Dr Sohil Momin.
+PolyForm Noncommercial — see [LICENSE](LICENSE). © 2026 Dr Sohil Momin.
