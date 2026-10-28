@@ -2,6 +2,8 @@
 
 # ml-kit
 
+[![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-2e7d32)](LICENSE)
+
 **The classic algorithms, from scratch — for offline features.**
 
 tf-idf · Naive Bayes · k-NN · k-means · PCA · ID3 · linear regression · Markov chains · grammar
