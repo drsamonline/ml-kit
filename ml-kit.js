@@ -9,7 +9,7 @@
  * claim a clinical or medical capability. Several apps that use it are clinical;
  * the algorithms here are generic and make no clinical claim.
  *
- * MIT License. (c) 2026 Dr Sohil Momin.
+ * PolyForm Noncommercial 1.0.0. (c) 2026 Dr Sohil Momin.
  */
 (function (root, factory) {
   if (typeof module === "object" && module.exports) module.exports = factory();
