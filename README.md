@@ -8,7 +8,7 @@
 
 tf-idf · Naive Bayes · k-NN · k-means · PCA · ID3 · linear regression · Markov chains · grammar
 
-A single file, zero dependencies, no model, no API key, no network. MIT.
+A single file, zero dependencies, no model, no API key, no network.
 
 </div>
 
